@@ -93,9 +93,8 @@ Place it in: C:\Users\YOUR_USERNAME\.cache\huggingface\gradio\frpc
 
 -Gradio
 
-#License
+# License
 
-MIT License.
-
+[MIT License](LICENSE)
 
 
