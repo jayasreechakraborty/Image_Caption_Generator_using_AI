@@ -7,13 +7,13 @@ Output: "a brown dog is running through the grass"
 
 image-caption-generator/
 
-├── blip_app.py                   # Gradio web app
+├── blip_app.py                                                                # Gradio web app
 
-├── blip_caption_generator.py     # Simple script version
+├── blip_caption_generator.py                                                  # Simple script version
 
-├── your_image.jpg                # Example image
+├── your_image.jpg                                                             # Example image
 
-└── README.md                     # This file
+└── README.md                                                                  # This file
 
 #Tech_Stack
 
@@ -48,13 +48,14 @@ image-caption-generator/
 -pip install Pillow
 
 #Run the App
-1. Caption from a local script:
+
+1.Caption from a local script:
 
 Create or run blip_caption_generator.py to generate captions for a specific image:
 
 -python blip_caption_generator.py
 
-2. Run the Gradio Web App:
+2.Run the Gradio Web App:
 
 -python blip_app.py
 
