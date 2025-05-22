@@ -33,7 +33,7 @@ image-caption-generator:
 
 1.Clone the Repository
 
-BASH:
+USE COMMAND PROMPT :
 
 -git clone https://github.com/yourusername/image-caption-generator.git
 
@@ -43,7 +43,7 @@ BASH:
 
 -Make sure Python is installed. Then install the required packages:
 
-BASH:
+USE COMMAND PROMPT :
 
 -pip install torch torchvision
 
