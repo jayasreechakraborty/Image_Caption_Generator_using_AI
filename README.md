@@ -7,7 +7,7 @@ Input: Image of a dog running through grass
 
 Output: "a brown dog is running through the grass"
 
-image-caption-generator/
+image-caption-generator:
 
 ├── blip_app.py                                                                # Gradio web app
 
@@ -33,6 +33,8 @@ image-caption-generator/
 
 1.Clone the Repository
 
+BASH:
+
 -git clone https://github.com/yourusername/image-caption-generator.git
 
 -cd image-caption-generator
@@ -40,6 +42,8 @@ image-caption-generator/
 2.Install Dependencies:
 
 -Make sure Python is installed. Then install the required packages:
+
+BASH:
 
 -pip install torch torchvision
 
