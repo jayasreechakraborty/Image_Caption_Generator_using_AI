@@ -7,13 +7,13 @@ Output: "a brown dog is running through the grass"
 
 image-caption-generator/
 
-├── blip_app.py                # Gradio web app
+├── blip_app.py                   # Gradio web app
 
-├── blip_caption_generator.py  # Simple script version
+├── blip_caption_generator.py     # Simple script version
 
-├── your_image.jpg             # Example image
+├── your_image.jpg                # Example image
 
-└── README.md                  # This file
+└── README.md                     # This file
 
 #Tech_Stack
 
@@ -29,13 +29,13 @@ image-caption-generator/
 
 #Installation
 
-1. Clone the Repository
+1.Clone the Repository
 
 -git clone https://github.com/yourusername/image-caption-generator.git
 
 -cd image-caption-generator
 
-2. Install Dependencies:
+2.Install Dependencies:
 
 -Make sure Python is installed. Then install the required packages:
 
