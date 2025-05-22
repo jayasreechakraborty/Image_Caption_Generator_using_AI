@@ -6,9 +6,13 @@ Input: Image of a dog running through grass
 Output: "a brown dog is running through the grass"
 
 image-caption-generator/
+
 ├── blip_app.py                # Gradio web app
+
 ├── blip_caption_generator.py  # Simple script version
+
 ├── your_image.jpg             # Example image
+
 └── README.md                  # This file
 
 #Tech_Stack
